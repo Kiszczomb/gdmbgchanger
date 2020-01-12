@@ -3,7 +3,7 @@
 Change your GNOME Desktop Manager (GDM) background/walpaper easier.
 Script is quite self-explanatory and will guide you thru the whole process.
 
-![Screenshot](screenshot.jpg)
+![Screenshot](screenshot.png)
 
 ## Step-by-step manual guide for curious ;) :
 1. Create working directory
